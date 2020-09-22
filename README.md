@@ -6,3 +6,6 @@ Please see the content linked here for the [variants on the GDA array (the backb
 
 ## Manuscript incoming
 We are working on the manuscript and cluster files for the array right now (just started shipping) so check back if you need anything else.
+
+## Preliminary overview
+Check out the slides from the Singleton Lab's Dr. Sara Bandres-Ciga for a 10,000 for overview of what the collaborators working on the design put together. Now that we are generating genotypes on this array, we'll start getting more granular info out there ASAP (pun only partially intended). 
